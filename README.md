@@ -6,6 +6,14 @@ The project uses a potentiometer as a throttle-like input. The Arduino Nano read
 
 The motor is powered by an external 5 V / 1 A USB power supply, while the Arduino is responsible only for the control signal.
 
+## 🎥 Demo
+
+A demonstration of the project and its motor speed control can be seen in the following video:
+
+[![Project demo](https://img.youtube.com/vi/6inUEd0g0GQ/hqdefault.jpg)](https://www.youtube.com/watch?v=6inUEd0g0GQ)
+
+*Click the image to watch the full video on YouTube.*
+
 ## Features
 
 - Arduino Nano based control
