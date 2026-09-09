@@ -8,9 +8,19 @@ The motor is powered by an external 5 V / 1 A USB power supply, while the Arduin
 
 ## 🎥 Demo
 
-A demonstration of the project and its motor speed control can be seen in the following video:
+### Motor speed control
+
+A demonstration of the motor speed control using the Arduino Nano, potentiometer and IRFZ44N MOSFET:
 
 [![Project demo](https://img.youtube.com/vi/6inUEd0g0GQ/hqdefault.jpg)](https://www.youtube.com/watch?v=6inUEd0g0GQ)
+
+*Click the image to watch the full video on YouTube.*
+
+### F1 car on the roller platform
+
+Slow-motion footage of the 1:43 scale F1 car running on the roller platform:
+
+[![F1 car running on the roller platform](https://img.youtube.com/vi/wWhvXPHs5Wk/hqdefault.jpg)](https://www.youtube.com/watch?v=wWhvXPHs5Wk)
 
 *Click the image to watch the full video on YouTube.*
 
